@@ -88,6 +88,7 @@
             <input type="submit" value="Bejelentkezés">
         </form>
         <p>Ha nincs még fiókod, <a href="register.php">regisztrálj itt</a>.</p>
+        <p>Forráskód, <a target="_blank" href="https://github.com/DanielMoln/Basic-PHP-Webshop">Katt</a>.</p>
     </div>
 </body>
 </html>
